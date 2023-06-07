@@ -1,0 +1,88 @@
+/*--------------------------------Student Bio Heading Text---------------------------------------------------*/
+.section1
+{
+    word-spacing: 5px;
+    font-size: 15px;
+    color: black;
+    font-family: "Times New Roman", serif;
+    text-align: center;
+
+}
+/*--------------------------------Student Image---------------------------------------------------*/
+.section1B
+{
+    padding-right: 50px;
+    float: right;
+}
+
+/*-----------------------------Student Information------------------------------------------------------*/
+.section2
+{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/*--------------------------------------Student Biography Paragraph---------------------------------------------*/
+.section3A
+{
+    font-family: "Times New Roman", serif;
+    text-align: center;
+    position: absolute;
+    top: 250px;
+    left: 350px;
+}
+
+/*---------------------------------Student Bio Webpage Medical Symbol--------------------------------------------------*/
+.section12
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: none;
+}
+
+/*-----------------------------Student Bio Contacts------------------------------------------------------*/
+.section4
+{
+    text-align: center;
+    font-size: 10px;
+    list-style-position: inside;
+    position: absolute;
+    bottom: 0;
+    right: 5px;
+}
+
+/*-----------------------------Student Bio Contacts-----------------------------------------*/
+
+.email {
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+}
+
+/*-----------------------------Student Bio Contacts------------------------------------*/
+
+.Github {
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+}
+
+/*------------------------------Student Bio Contacts---------------------------------------*/
+
+.PortFolio {
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+}
+
+/*-----------------------------------Citation for the Medical Symbol------------------------------------------------*/
+.citation
+{
+    font-size: 15px;
+    position: absolute;
+    bottom: 0;
+    left: 5px;
+
+}
